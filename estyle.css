@@ -12,14 +12,14 @@ body { background-color: rgb(0, 255, 68);
   margin:0 16px;
   padding: 100px 0;
   font-size: 40px;}
-  .cabecalho{
+  .cabecario{
   background-color: rgb(20, 187, 92);
   color: black;
   display: flex;
   justify-content: space-around;
   padding: 24px 0;
   }
-.cabecalho-item
+.cabecario-item
 {display: inline-block;
 margin: 0 16px;
 padding: 24px 0;
@@ -28,11 +28,31 @@ font-size: 24px;}
   width: 300%; 
 }
 
-.escola{background-image: linear-gradient(red, blue);
+.escola{background-image: linear-gradient(red, rgb(3, 3, 20));
     color: white;
        display: flex;
     justify-content: center;
      align-items: center;
     padding: 24px 0;}
+
+    .escola 
+    {background-image: linear-gradient(red rgb (143, 8, 8)red rgb (255, 0, 0));
+    color: black rgb (0, 0, 0);
+    display: flex;
+    align-items: center;
+    padding: 24px, 0}
+    .escola-conteudo
+    {width:2000% ;}
+    
+    
+    
+    }
+
+
+
+
+
+
+
 
 
